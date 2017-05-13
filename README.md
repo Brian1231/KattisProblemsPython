@@ -1,6 +1,6 @@
 # Kattis Problems
 
-## Repository for solutions to problems at kattis.com in Python
+## Repository for solutions to problems at kattis.com in Java
 
    Completed  | Problem	                                               | 
 ------------- | -------------                                          |
